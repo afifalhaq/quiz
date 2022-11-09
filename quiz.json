@@ -1,0 +1,79 @@
+{ 
+    
+    "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Pdf": [
+    {
+      "id": 1,
+      "name_pdf": "SD Kelas VI",
+      "image_pdf": "https://bukusekolahdigital.com/data/2013/kelas_6sd/siswa/cover/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa-thumb.jpg",
+      "url_pdf": "http://bse.mahoni.com/data/2013/kelas_6sd/siswa/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa.pdf"
+    },
+    {
+      "id": 2,
+      "name_pdf": "SD Kelas V",
+      "image_pdf": "https://bukusekolahdigital.com/data/2013/kelas_5sd/siswa/2017/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017-thumb.jpg",
+      "url_pdf": "http://bsd.pendidikan.id/data/2013/kelas_5sd/siswa/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017.pdf"
+    },
+    {
+      "id": 3,
+      "name_pdf": "SD Kelas IV",
+      "image_pdf": "https://bukusekolahdigital.com/data/2013/kelas_4sd/siswa/2017/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017-thumb.jpg",
+      "url_pdf": "http://bsd.pendidikan.id/data/2013/kelas_4sd/siswa/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017.pdf"
+    }
+  ],
+
+  "Qiuz":
+  [
+    {
+      "id":"1",
+      "name_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"https://raw.githubusercontent.com/afifalhaq/quiz/main/IPA.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam Ujian Nasional paket A tahun 2015"
+    }
+  ]
+}
