@@ -71,7 +71,7 @@
     {
       "id":"1",
       "name_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"file:///android_asset/ipa/IPAa.html",
+      "quiz_url":"https://raw.githubusercontent.com/afifalhaq/quiz/main/IPA.html",
       "color_quiz":"#e74c3c",
       "des_quiz":"Soal Ilmu Pengetahun Alam Ujian Nasional paket A tahun 2015"
     },
