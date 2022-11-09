@@ -71,9 +71,72 @@
     {
       "id":"1",
       "name_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://raw.githubusercontent.com/afifalhaq/quiz/main/IPA.html",
+      "quiz_url":"file:///android_asset/ipa/IPAa.html",
       "color_quiz":"#e74c3c",
       "des_quiz":"Soal Ilmu Pengetahun Alam Ujian Nasional paket A tahun 2015"
+    },
+    {
+      "id":"2",
+      "name_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"file:///android_asset/ipa/IPAb.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam Ujian Nasional paket B tahun 2015"
+    },
+    {
+      "id":"3",
+      "name_quiz":"Bahasa Indonesia",
+      "quiz_url":"file:///android_asset/Indo/Indo.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia Ujian Nasional paket A tahun 2013"
+    },
+    {
+      "id":"4",
+      "name_quiz":"Bahasa Indonesia",
+      "quiz_url":"file:///android_asset/Indo/indob.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia Ujian Nasional paket B tahun 2013"
+    },
+    {
+      "id":"5",
+      "name_quiz":"Bahasa Indonesia",
+      "quiz_url":"file:///android_asset/Indo/indoc.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia Ujian Nasional paket C tahun 2013"
+    },
+    {
+      "id":"6",
+      "name_quiz":"Matematika",
+      "quiz_url":"file:///android_asset/matematika/mtk.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika Ujian Nasional paket A tahun 2014"
+    },
+    {
+      "id":"7",
+      "name_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"file:///android_asset/ipa/IPAc.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam Ujian Nasional paket A tahun 2016"
+    },
+    {
+      "id":"8",
+      "name_quiz":"Matematika",
+      "quiz_url":"file:///android_asset/matematika/mtkb.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika Ujian Nasional paket B tahun 2014"
+    },
+    {
+      "id":"9",
+      "name_quiz":"Matematika",
+      "quiz_url":"file:///android_asset/matematika/mtkc.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika Ujian Nasional paket C tahun 2014"
+    },
+    {
+      "id":"10",
+      "name_quiz":"Bahasa Indonesia",
+      "quiz_url":"file:///android_asset/Indo/indod.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia Ujian Nasional paket A tahun 2014"
     }
   ]
 }
